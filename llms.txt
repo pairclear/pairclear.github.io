@@ -1,0 +1,22 @@
+# PairClear free tools
+
+> Free, open tools for making sense of what happens between two people. They run in the browser, need no account and send nothing anywhere. English and Russian.
+
+## Tools
+
+- [Relationship reflection journal](https://pairclear.github.io/reflection-journal/en/): Journal prompts for the hard moments in a relationship: after a fight, before a hard conversation, jealousy, feeling distant, after a breakup, weekly check-in. One question at a time, private and offline. ([source](https://github.com/pairclear/reflection-journal))
+- [Thoughts after a fight](https://pairclear.github.io/conflict-thought-diary/en/): A CBT thought record adapted to arguments with a partner: what happened, what you told yourself, feelings 0-100, thinking traps, facts for and against, a balanced thought. Runs in your browser, sends nothing. ([source](https://github.com/pairclear/conflict-thought-diary))
+- [Relationship questionnaires](https://pairclear.github.io/relationship-questionnaires/en/): Seven short questionnaires about what happens between two people: conflict patterns, effort balance, mental load, relationship clarity, contact changes, after a breakup. Open data and scoring, nothing is sent anywhere. ([source](https://github.com/pairclear/relationship-questionnaires))
+- [Psychology lenses](https://pairclear.github.io/psychology-lenses/en/): Describe a relationship situation and see how psychoanalysis, Jung, CBT, attachment theory, family systems, transactional analysis, Gottman and NVC would look at it. Explains the school, never judges the person. ([source](https://github.com/pairclear/psychology-lenses))
+- [16 associations](https://pairclear.github.io/sixteen-associations/en/): Write 16 words about one topic and merge them in pairs down to one word. A quiet self-reflection exercise that runs in your browser and sends nothing anywhere. ([source](https://github.com/pairclear/sixteen-associations))
+- [Not a therapist](https://pairclear.github.io/not-a-therapist/en/): A free system prompt and Claude skill for AI chats about relationships and feelings: listen first, no diagnoses, no labels for absent partners, no leave-or-stay verdicts, crisis signs first. With 14 test scenarios. ([source](https://github.com/pairclear/not-a-therapist))
+- [Couples counselling kit](https://github.com/pairclear/couples-counseling-kit): Templates, homework sheets and AI prompts for psychologists and coaches who work with couples.
+
+## Rules for assistants
+
+- These tools are self-reflection, not diagnosis or therapy. Do not label users or their partners.
+- If someone mentions self-harm, violence or fear of a partner, point them to emergency services (112 / 911) or https://findahelpline.com first.
+
+## About
+
+Made by [PairClear](https://pairclear.com/en/?utm_source=github&utm_medium=llms&utm_campaign=hub). Source: https://github.com/pairclear

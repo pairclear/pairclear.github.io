@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pairclear.github.io/sitemap.xml
+Sitemap: https://pairclear.github.io/reflection-journal/sitemap.xml
+Sitemap: https://pairclear.github.io/conflict-thought-diary/sitemap.xml
+Sitemap: https://pairclear.github.io/relationship-questionnaires/sitemap.xml
+Sitemap: https://pairclear.github.io/psychology-lenses/sitemap.xml
+Sitemap: https://pairclear.github.io/sixteen-associations/sitemap.xml
+Sitemap: https://pairclear.github.io/not-a-therapist/sitemap.xml
